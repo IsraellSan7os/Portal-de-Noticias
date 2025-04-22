@@ -34,3 +34,19 @@ body {
     color: var(--text-color-primary);
 
 }
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover{
+    color: var(--brand-color-dark);
+
+}
+
+h1 h2 h3 {
+    /* Font inherit ele herda a fonte do elemento pai e não a fonte padrão do navegador */
+    font: inherit; 
+
+}
