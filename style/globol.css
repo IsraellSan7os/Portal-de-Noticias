@@ -51,17 +51,17 @@ h1 h2 h3 {
 
 }
 
+img{
+    max-width: 100%;
+}
+
 .container {
     max-width: 1280px;
     padding-inline: 32px;
     margin-inline: auto;
 }
 
-.grid {
-    display: grid;
-  
-}
-
-.grid-fow-col{
-    grid-auto-flow: column;
+main{
+    margin: 40px;
+    
 }
