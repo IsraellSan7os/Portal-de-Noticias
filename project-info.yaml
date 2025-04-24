@@ -1,0 +1,55 @@
+project:
+  name: Portal de Notícias
+  description: >
+    Um portal de notícias moderno e responsivo, desenvolvido com HTML e CSS.
+  version: 1.0.0
+  author: Israel Custódio dos Santos
+  github: https://github.com/IsraellSan7os/Portal-de-Noticias
+  license: MIT
+  preview_image: assets/img/image01.png
+  technologies:
+    - HTML5
+    - CSS3
+    - Grid Layout
+    - Variáveis CSS
+    - Google Fonts
+  fonts:
+    - Archivo
+    - Poppins
+  colors:
+    primary_background: "#0C0C0D"
+    light_background: "#F9F9F9"
+    text_secondary: "#5D5D5D"
+    accent: "#EB1E1E"
+  structure:
+    root:
+      - index.html
+      - style/
+      - assets/
+    style:
+      - index.css
+    assets:
+      icons:
+        - ads.jpg
+        - List.svg
+        - MagnifyingGlass.svg
+        - Tech News.svg
+      img:
+        - Image 01.png
+        - Image 02.png
+        - Image 03.png
+        - Image 04.png
+        - Image 05.png
+        - Image 06.png
+        - Image 07.png
+        - Image 08.png
+        - Image 09.png
+        - Image 10.png
+        - Image 11.png
+        - Image 12.png
+        - Image 13.png
+        - Image 14.png
+        - Image 15.png
+        - Image 16.png
+        - Image 17.png
+        - Image 18.png
